@@ -1,7 +1,3 @@
-===========
-OUTLINE
-===========
-
 chapter -1
  - we meet Nick, Tom, Daisy, and
     Jordan
